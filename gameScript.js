@@ -33,7 +33,7 @@ function GameController(){
 //player constructor
 function Paddle(){
   this.x = 10;
-  this.y = 400;
+  this.y = 450;
   this.speedX = 2;
   this.width = 150;
   this.height = 30;
