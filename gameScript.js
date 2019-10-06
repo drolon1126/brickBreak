@@ -2,7 +2,7 @@ window.addEventListener("load", function() {
 
 //Game Constants
   var GAME_WIDTH = 700;
-  var GAME_HEIGHT = 700;
+  var GAME_HEIGHT = 500;
   var CONTROL_CANVAS_HEIGHT = 100;
   var BLOCK_WIDTH = 100;
   var BLOCK_HEIGHT = 30;
